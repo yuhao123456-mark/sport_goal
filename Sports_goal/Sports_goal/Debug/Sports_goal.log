@@ -1,0 +1,20 @@
+﻿  Sports_goal.c
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(33,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(36,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(39,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(42,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(48,45): warning C4133: “函数”: 从“GX_WIDGET *”到“GX_ICON_BUTTON *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(55,45): warning C4133: “函数”: 从“GX_WIDGET *”到“GX_ICON_BUTTON *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(61,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(64,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(80,25): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(94,25): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(98,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(103,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(108,26): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(118,25): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(128,25): warning C4133: “函数”: 从“GX_WINDOW *”到“GX_WIDGET *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(170,37): warning C4133: “函数”: 从“GX_WIDGET *”到“GX_ICON *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(231,33): warning C4133: “函数”: 从“GX_WIDGET *”到“GX_ICON *”的类型不兼容
+D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Sports_goal\Sports_goal.c(133): warning C4716: “SET_EVENT_HANDLER”: 必须返回一个值
+  Sports_goal.vcxproj -> D:\核桃\项目文件\2020.9.10\Sports_goal\Sports_goal\Debug\Sports_goal.exe
